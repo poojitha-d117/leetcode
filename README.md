@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/poojitha-d117/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2544-alternating-digit-sum](https://github.com/poojitha-d117/leetcode/tree/master/2544-alternating-digit-sum) |
 ## Array
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/poojitha-d117/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/poojitha-d117/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
