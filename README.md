@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/poojitha-d117/leetcode/tree/master/0217-contains-duplicate) |
 | [2553-separate-the-digits-in-an-array](https://github.com/poojitha-d117/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 ## Simulation
 |  |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/poojitha-d117/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/poojitha-d117/leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/poojitha-d117/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
